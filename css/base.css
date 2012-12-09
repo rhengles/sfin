@@ -15,9 +15,10 @@ td input {
   width: 85%;
 }
 td.col_3, th.col_3,
-td.col_6, th.col_6,
 td.col_7, th.col_7,
 td.col_8, th.col_8,
-td.col_9, th.col_9 {
+td.col_9, th.col_9,
+td.col_10, th.col_10,
+td.col_11, th.col_11 {
   background: #a0a0a0;
 }
